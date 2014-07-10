@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsolevvodClass
+
+namespace InterfaceClassLibrary3
 {
-    public class Consolevvod
+    public class InterfaceClass
     {
         public static int vvod()
         {
